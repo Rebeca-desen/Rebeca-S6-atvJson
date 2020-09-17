@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "ano": "1997"
+    },
+    {
+        "id": 2,
+        "nome": "O grande Gatsby",
+        "ano": "1925"
+    },
+    {
+        "id": 3,
+        "nome": "O Caçador de Pipas ",
+        "ano":"2003"
+    },
+    {
+        "id": 4,
+        "nome": "A Metamorfose",
+        "ano": "1915"
+    },
+    { 
+        "id": 5,
+        "nome": "A Revolução dos Bichos",
+        "ano":"1945"
+    },
+    {
+        "id": 6,
+        "nome":"A Divina Comédia",
+        "ano": "1472"
+    },
+    {
+        "id": 7,
+        "nome": "O Cortiço",
+        "ano": "1890"
+    },
+    {
+        "id": 8,
+        "nome": "Memórias Póstumas de Brás Cubas",
+        "ano": "1881"
+    },
+    {
+        "id": 9,
+        "nome":"O Mulato",
+        "ano":"1881"
+    },
+    {
+        "id": 10,
+        "nome": "Casa de Pensão",
+        "ano": "1890"
+    }
+
+]
