@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "comida": "Cogumelo matsutake",
+        "preço": "600 dólares por quilo"
+    },
+    {
+        "id": 2,
+        "comida": "Café Kopi Luwak",
+        "preço": "varia entre 250 e 1200 dólares por quilo"
+    },
+    {
+        "id": 3,
+        "comida": "Caviar Almas (do peixe esturjão-beluga albino)",
+        "preço": "Um quilo deste caviar custa 8500 euros"
+    },
+    {
+        "id": 4,
+        "comida": "Sopa de ninho de andorinha",
+        "preço": "3000 dólares o quilo"
+    },
+    {
+        "id": 5,
+        "comida": "Açafrão",
+        "preço": "varia entre 400 a 1000 dólares o quilo"
+    },
+    {
+        "id": 6,
+        "comida": "Trufas brancas",
+        "preço": "cerca de 2000 euros"
+    },
+    {
+        "id": 7,
+        "comida": "Frango negro Ayam Cemani",
+        "preço": "200 dólares"
+    },
+    {
+        "id": 8,
+        "comida": "Kobe beef",
+        "preço": "pode chegar a custar 450 dólares o kilo"
+    },
+    {
+        "id": 9,
+        "comida": "Presunto ibérico",
+        "preço": "em torno de 365 euros"
+    },
+    {
+        "id": 10,
+        "comida": "Queijo de alce",
+        "preço": "1000 euros o kg"
+    }
+]

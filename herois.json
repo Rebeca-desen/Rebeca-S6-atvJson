@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "heroína": "Viúva Negra",
+        "super poder/ habilidade": "habilidades de combate"
+    },
+    {
+        "id": 2,
+        "heroína": "Valquíria",
+        "super poder/ habilidade": "super-força, ótima líder"
+    },
+    {
+        "id": 3,
+        "heroína":"Tempestade",
+        "super poder/ habilidade":"controle do clima"
+    },
+    {
+        "id": 4,
+        "heroína":"Mulher Invisível",
+        "super poder/ habilidade":"fica invisível e cria campos de energia"
+    },
+    {
+        "id": 5,
+        "heroína":"Gamora",
+        "super poder/ habilidade":"força, velocidade, resistência e reflexos muito superiores aos de uma pessoa comum"
+    },
+    {
+        "id": 6,
+        "heroína":"Feiticera Escarlate",
+        "super poder/ habilidade":"Magia do caos,habilidades de controlar e distorcer campos de energia e a matéria,apaz alterar a realidade através de seus pensamentos "
+    },
+    {
+        "id": 7,
+        "heroína":"Deusa do trovão",
+        "super poder/ habilidade":"as mesmas habilidades de thor"
+    },
+    {
+        "id": 8,
+        "heroína":"Vampira",
+        "super poder/ habilidade":"absorver memórias e poderes ao entrar em contato físico com outras pessoas"
+    },
+    {
+        "id": 9,
+        "heroína": "Capitã Marvel",
+        "super poder/ habilidade":"Super-força, super-resistência, fator de cura, vôo, super-velocidade, projeção e absorção de energia"
+    },
+    {
+        "id": 10,
+        "heroína": "Mulher-Hulk",
+        "super poder/ habilidade":"os mesmos poderes do hulk mas consegue se transformar quando quer sem perder o intelecto"
+    }
+]
