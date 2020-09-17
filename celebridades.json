@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "Nome": "Ingrid Bergman",
+        "Produções/ filmes atuados": "50 filmes"
+    },
+    {
+        "id": 2,
+        "Nome": "Vivien Leigh",
+        "Produções/ filmes atuados": "20 filmes e dezenas de apresentações no teatro"
+    },
+    {
+        "id": 3,
+        "Nome": "Audrey Hepburn",
+        "Produções/ filmesa atuados": "em torno de 30 atuações no cinema"
+    },
+    {
+        "id": 4,
+        "Nome": "Sophia Loren",
+        "Produções/ filmes atuados": "quase 100 produções"
+    },
+    {
+        "id": 5,
+        "Nome": "Ann-Margret",
+        "Produções/ filmes atuados": "cerca de 40 filmes"
+    },
+    {
+        "id": 6,
+        "Nome": "Marlene Dietrich",
+        "Produções/ filmes atuados": "10° lenda feminina do cinema americado"
+    },
+    {
+        "id": 7,
+        "Nome": "Elizabeth Taylor",
+        "Produções/ filmes atuados": "ganhadora de 2 oscars"
+    },
+    {
+        "id": 8,
+        "Nome": "Greta Garbo",
+        "Produções/ filmes atuados": "inicada ao oscar 4 vezes, mais de 40 atuações em filmes"
+    },
+    {
+        "id": 9,
+        "Nome": "Ava Garder",
+        "Produções/ filmes atuados":"participou de mais de 60 filmes"
+    },
+
+    {
+        "id": 10,
+        "Nome": "Grace Kelly",
+        "Produções/ filmes atuados": "mais de 10 nomeações aos principais prêmios do cinema"
+    }
+]

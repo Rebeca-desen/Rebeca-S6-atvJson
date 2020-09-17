@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "canal": "Manual do Mundo",
+        "temas abordados": "experiências com ciência e tecnologia"
+    },
+    {
+        "id": 2,
+        "canal": "TED Talks",
+        "temas abordados": "palestras com os mais diversos assuntos em alta"
+    },
+    {
+        "id": 3,
+        "canal": "Casa do Saber",
+        "temas abordados": "reflexões com temas como política, moral, sociologia, psicanálise e filosofia"
+    },
+    {
+        "id": 4,
+        "canal": "Nerdologia",
+        "temas abordados": "ciência apresentando vídeos explicativos sobre coisas que surgem em filmes e HQ’s"
+    },
+    {
+        "id": 5,
+        "canal": "Oficina de Casa",
+        "temas abordados": "útil para quem está indo morar sozinho, ensinando a fazerserviços caseiros que seu pai fazia e provavelmente nem te ensinou "
+    },
+    {
+        "id": 6,
+        "canal": "Alimente o Cérebro",
+        "temas abordados": "ciência, filosofia, artes, política"
+    },
+    {
+        "id": 7,
+        "canal": "Minutos Psíquicos", 
+        "temas abordados": "vídeos curtos sobre psicologia"
+    },
+    {
+        "id": 8,
+        "canal": "Zona da Fotografia",
+        "temas abordados": "aborda vários assuntos do universo da fotografia"
+    },
+    {
+        "id": 9,
+        "canal": "Você Sabia?",
+        "temas abordados": "perguntas e respostas sobre assuntos curiosos"
+    },
+    {
+        "id": 10,
+        "canal": "Ciência Todo Dia",
+        "temas abordados": "vários assuntos e teorias cientificas"
+    }
+]

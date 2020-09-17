@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "planta": "Acácia",
+        "significado místico": "amor secreto"
+    },
+    {
+        "id": 2,
+        "planta": "Azaléia",
+        "significado místico": "conceito de romance"
+    },
+    {
+        "id": 3,
+        "planta": "Begónia",
+        "significado místico": "inocência, timidez e lealdade no amor"
+    },
+    {
+        "id": 4,
+        "planta": "Bromélia",
+        "significado místico": " simboliza a resistência e é muito usada para mostrar força"
+    },
+    {
+        "id": 5,
+        "planta": "Camélia",
+        "significado místico": "representa a beleza perfeita"
+    },
+    {
+        "id": 6,
+        "planta": "Cravo amarelo",
+        "significado místico": "rejeição e desdém"
+    },
+    {
+        "id": 7,
+        "planta": "Dente de leão",
+        "significado místico": "fidelidade e alegria"
+    },
+    {
+        "id": 8,
+        "planta": "Erva doce",
+        "significado místico": "força"
+    },
+    {
+        "id": 9,
+        "planta": "Flor de lótus",
+        "significado místico": "mistério, verdade e pureza espiritual"
+    },
+    {
+        "id": 10,
+        "planta": "Flor de maracujá",
+        "significado místico": "fé e piedade"
+    }
+]

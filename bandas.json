@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "banda": "Ramones",
+        "principal(is) sucesso(s)":" “I Wanna Be Sedated” (1978), “Blitzkreig Bop” (1985) e “Sheena Is a Punk Rocker” (1977)"
+    },
+    {
+        "id": 2,
+        "banda": "The who",
+        "principal(is) sucesso(s)": "Baba O'Riley"
+    },
+    {
+        "id": 3,
+        "banda": "Black Sabbath",
+        "principal(is) sucesso(s)": "Paranoid (1970), Master of Reality (1971) e Heaven and Hell (1980)."
+    },
+    {
+        "id": 4,
+        "banda": "Led Zeppelin",
+        "principal(is) sucesso(s)": "Kashmir"
+    },
+    {
+        "id": 5,
+        "banda": "The Beatles",
+        "principal(is) sucesso(s)": "Hey jude"
+    },
+    {
+        "id": 6,
+        "banda": "U2",
+        "principal(is) sucesso(s)": "Sunday Bloody Sunday"
+    },
+    {
+        "id": 7,
+        "banda": "Queen",
+        "principal(is) sucesso(s)": "Bohemian Rhapsody"
+    },
+    {
+        "id": 8,
+        "banda": "Capital inicial",
+        "principal(is) sucesso(s)": "Primeiros erros"
+    },
+    {
+        "id": 9,
+        "banda": "Legião Urbana",
+        "principal(is) sucesso(s)": "Pais e Filhos"
+    },
+    {
+        "id": 10,
+        "banda": "Titãs",
+        "principal(is) sucesso(s)": "Marvin"
+    }
+]

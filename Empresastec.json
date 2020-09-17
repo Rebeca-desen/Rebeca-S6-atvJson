@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "Empresa": "Apple",
+        "Valor no mercado": "US$ 961 bilhões "
+    },
+    {
+        "id": 2,
+        "Empresa": "Microsoft",
+        "Valor no mercado": "US$ 946 bilhões"
+    },
+
+    {
+        "id": 3,
+        "Empresa": "Amazon",
+        "Valor no mercado": "US$ 916 bilhões"
+    },
+    {
+        "id": 4,
+        "Empresa": "Alphabet (google)",
+        "Valor no mercado": "US$ 863 bilhões"
+    },
+    {
+        "id": 5,
+        "Empresa": "Facebook",
+        "Valor no mercado": "US$ 512 bilhões"
+    },
+    {
+        "id": 6,
+        "Empresa":"Tencent",
+        "Valor no mercado": "US$ 472 bilhões"
+    },
+    {
+        "id": 7,
+        "Empresa":"Samsung",
+        "Valor no mercado": "US$ 272 bilhões" 
+    },
+    {
+        "id": 8,
+        "Empresa": "Intel",
+        "Valor no mercado": "US$ 263 bilhões"
+    },
+    {
+        "id": 9,
+        "Empresa":"Cisco System",
+        "Valor no mercado": "US$ 248 bilhões"
+    },
+    {
+        "id": 10,
+        "Empresa": "Taiwan Semiconductor - TSMC",
+        "Valor no mercado": "US$ 222 bilhões"
+    }
+]
