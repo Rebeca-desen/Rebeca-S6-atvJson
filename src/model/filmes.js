@@ -4,7 +4,7 @@ const filmesSchema = new mongoose.Schema({
     id: { type: Number },
     nome: { type: String },
     ano: { type: String },
-    gostou: { type: Boolean}
+    assisti: { type: Boolean}
 },{
     versionKey: false
 })

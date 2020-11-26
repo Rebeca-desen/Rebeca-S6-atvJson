@@ -5,6 +5,7 @@ const controller = require('../controller/filmesController')
 router.get('/', controller.getAll)
 router.post('/', controller.postFilmes)
 router.get('/filtro', controller.filtro)
+router.put('/:id', controller.putFilmes)
 
 
 module.exports = router

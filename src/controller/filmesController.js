@@ -27,8 +27,22 @@ const filtro = (req, res) => {
     })
 }
 
+
+const putFilmes = (req, res) => {
+ const id = req.params.id
+
+ filmes.updateMany({id}, {$set: req.body }, function(err){
+     if (err){ res.status(500).send('vixi kk')}
+     else{res.status(200).send('tudo dentro dos conformes')}
+     console.log('ta rodando')
+ })
+
+}
+
+
 module.exports = {
     getAll, 
     postFilmes,
-    filtro
+    filtro,
+    putFilmes
 }
